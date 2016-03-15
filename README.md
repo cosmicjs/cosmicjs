@@ -1,5 +1,5 @@
 #Cosmic JS
-This repo serves as a place for users to find resources for Cosmic JS as well as communicate and view updates on issues for the Cosmic JS content management platform.
+This repo serves as a place for users to find resources and submit / track issues for the Cosmic JS content management platform.
 
 I'd love to get your feedback on any issues you run into or any feature requests you may have.  It is the mission of Cosmic JS to be the best way for you to manage content for your websites and applications.
 
