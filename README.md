@@ -7,4 +7,4 @@ Please sign up at https://cosmicjs.com and let me know what you think.
 
 Thanks for your feedback!
 
-Tony
+Tony Spiro
