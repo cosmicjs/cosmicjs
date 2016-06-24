@@ -1,4 +1,5 @@
 #Cosmic JS
+[![Cosmic JS Logo](https://cosmicjs.com/images/marketing/logo-w-brand.jpg)](https://cosmicjs.com/)<br><br>
 Cosmic JS is an API-first content platform that makes it easy to build apps and manage content within your team.
 
 Sign up at https://cosmicjs.com
