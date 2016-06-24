@@ -9,9 +9,8 @@ Tony Spiro
 
 ##Getting Started
 https://cosmicjs.com/getting-started
-####API Documentation
+##API Documentation
 https://cosmicjs.com/docs
-
 
 ##How To
 #####How to Deploy a Website with a Custom Domain Using Cosmic JS (Includes Video)
