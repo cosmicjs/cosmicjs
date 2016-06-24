@@ -1,11 +1,7 @@
 #Cosmic JS
-This repo serves as a place to find resources and submit / track issues for the Cosmic JS content management platform.
+Cosmic JS is an API-first content platform that makes it easy to build apps and manage content within your team.
 
-I'd love to get your feedback on any issues you run into or any feature requests you may have.  It is the mission of Cosmic JS to be the best way for you to manage content for your websites and applications.
-
-Sign up at https://cosmicjs.com and let me know what you think.  Thanks for your feedback!
-
-Tony Spiro
+Sign up at https://cosmicjs.com
 
 ##Getting Started
 https://cosmicjs.com/getting-started
