@@ -8,7 +8,6 @@ Sign up at https://cosmicjs.com and let me know what you think.  Thanks for your
 Tony Spiro
 
 ##Getting Started
-####Guide
 https://cosmicjs.com/getting-started
 ####API Documentation
 https://cosmicjs.com/docs
