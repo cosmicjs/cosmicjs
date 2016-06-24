@@ -13,10 +13,10 @@ https://cosmicjs.com/docs
 
 
 ##How To
-####How to Deploy a Website with a Custom Domain Using Cosmic JS (Includes Video)
+#####How to Deploy a Website with a Custom Domain Using Cosmic JS (Includes Video)
 https://cosmicjs.com/blog/how-to-deploy-a-website-with-a-custom-domain-using-cosmic-js
 
-####Install and Deploy Content-Ready Apps
+#####Install and Deploy Content-Ready Apps
 https://cosmicjs.com/blog/install-and-deploy-content-ready-apps<br/>
 In about 2 minutes your application will be deployed and connected to content in your Cosmic JS bucket.
 
