@@ -21,7 +21,7 @@ https://cosmicjs.com/blog/install-and-deploy-content-ready-apps<br/>
 In about 2 minutes your application will be deployed and connected to content in your Cosmic JS bucket.
 
 ##Resources
-#####NPM Package
+#####JavaScript Client
 https://github.com/cosmicjs/cosmicjs-node
 
 #####PHP Client
